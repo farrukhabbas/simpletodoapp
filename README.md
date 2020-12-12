@@ -6,7 +6,7 @@ This app uses the latest hooks for state management and lifecycle events in a fu
 
 This app also uses react-native-elements for easy styling.
 
-this project was testing on iOS simulator iPhone 11
+this project was tested on iOS simulator iPhone 11
 
 # Install
 
